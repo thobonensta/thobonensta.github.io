@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h2><B>Associate-Profeesor at ENSTA Bretagne</B></h2>
+<h2><B>Associate-Professor at ENSTA Bretagne</B></h2>
 
 I am an Associate-Professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA Bretagne</a> since September 2021. I am a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM</a> (Propagation et Interaction Multi-échelle) team of the <a href="https://labsticc.fr/fr">Lab-STICC</a>.
 
