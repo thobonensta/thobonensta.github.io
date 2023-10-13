@@ -16,7 +16,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 <li> <font color="#003300"><i>A Two-Way Split-Step Wavelet Scheme for Tropospheric Long-Range Propagation in Various Environments.</i></font>
-<a href="remotesensing-1733979.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>
+<a href="./files/remotesensing-1733979.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>
 <br> with Othmane Benhmammouch and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 <br> in Remote Sensing, 14(11), 2022.
 </li>
