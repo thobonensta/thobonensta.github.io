@@ -117,7 +117,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </i></font>
 <a href="Publications/URSI_GASS_2021.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>
 <br> with <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douvenot/" target="_blank">Rémi Douvenot</a> and <a href="http://ema.recherche.enac.fr/permanent-staff-2/alexandre-chabory/" target="_blank">Alexandre Chabory</a>.
-<br> in General Assembly and Scientific Symposium (GASS) of the International Union of Radio Science, <strong>young scientist award</strong>, 2021.
+<br> in General Assembly and Scientific Symposium (GASS) of the International Union of Radio Science, <strong>Young Scientist Award</strong>, 2021.
 </li>
 
 
@@ -150,3 +150,19 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 </ol>
+
+<h3>Ph.D</h3>
+Title: <i>Modeling the Atmospheric Long-range Electromagnetic Waves Propagation in 3D Using the Wavelet Transform.</i> <a href="These/These_Thomas_Bonnafont.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>
+<br><br>
+Supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/alexandre-chabory/" target="_blank">Alexandre Chabory</a> and <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douvenot/" target="_blank">Rémi Douvenot</a> au sein de l'équipe Electromagnetics and Antennas du laboratoire TELECOM de l'ENAC(<a href="http://ema.recherche.enac.fr/" target="_blank">EMA</a>).
+<br><br>
+Defended the 26th of november 2020 at the French Civil Aviation University (<a href="https://www.enac.fr/fr" target="_blank">ENAC</a>) in front of the following jury members <!--<a href="Presentations/thesis_defense.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>-->
+<ul>
+<li><a href="https://web.itu.edu.tr/akleman/" target="_blank">Funda Akleman</a> (Reviewer)</li>
+<li><a href="http://ema.recherche.enac.fr/permanent-staff-2/alexandre-chabory/" target="_blank">Alexandre Chabory</a> (Supervisor)</li>
+<li><a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douvenot/" target="_blank">Rémi Douvenot</a> (Supervisor)</li>
+<li> Vincent Fabbro (Invité)</li>
+<li><a href="https://ece.umass.edu/faculty/ramakrishna-janaswamy" target="_blank">Ramakrishna Janaswamy</a> (Reviewer)</li>
+<li><a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> (Examiner)</li>
+<li><a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a> (Examiner)</li>
+</ul>
