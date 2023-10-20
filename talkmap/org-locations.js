@@ -46,8 +46,9 @@ var addressPoints = [
   ],
       [
     "Pau, France",
-    27.760562,
-    -15.586017
+    43.2951,
+    -0.370797
+
   ],
         [
     "Florence, Italy",
@@ -61,8 +62,8 @@ var addressPoints = [
   ],
           [
     "Genova, Italy",
-    31.4600311,
-    -96.0741403
+    44.414165,
+    8.942184
   ],
         [
     "Rennes, France",
