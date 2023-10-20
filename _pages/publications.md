@@ -19,8 +19,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in Remote Sensing, 14(11), 2022.
 </li>
 
-<li> <font color="#003300"><i>Determination of the thresholds in the split-step wavelet method to assess accuracy for long-range propagation.</i></font>
-<a href="Publications/RSL-template.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>
+<li> <a href="https://thobonensta.github.io/files/RSL-template.pdf"><font color="#003300"><i>Determination of the thresholds in the split-step wavelet method to assess accuracy for long-range propagation.</i></font></a>
 <br> with <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douvenot/" target="_blank">Rémi Douvenot</a> and <a href="http://ema.recherche.enac.fr/permanent-staff-2/alexandre-chabory/" target="_blank">Alexandre Chabory</a>.
 <br> in URSI Radio Science Letters, 3, 2021.
 </li>
