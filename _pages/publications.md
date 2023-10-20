@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=Q1QRM9UAAAAJ&hl=fr&oi=ao">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.com/citations?user=Q1QRM9UAAAAJ&hl=fr&oi=ao">my Google Scholar</a> profile and on my <a href="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=thomas-bonnafont&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css">HAL</a> profile.
 
 <h3>Journals</h3>
 
