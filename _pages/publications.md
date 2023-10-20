@@ -8,15 +8,13 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=Q1QRM9UAAAAJ&hl=fr&oi=ao">my Google Scholar profile</a>.
 
 <h3>Journals</h3>
-<ol reversed>
 
 <li> <font color="#003300"><i>Computing the radar cross-section of dielectric targets using the Gaussian beam summation method.</i></font>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
 <br> in Remote Sensing, 15(14), 2023.
 </li>
 
-<li> <font color="#003300"><i>A Two-Way Split-Step Wavelet Scheme for Tropospheric Long-Range Propagation in Various Environments.</i></font>
-<a href="https://thobonensta.github.io/files/remotesensing-1733979.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>
+<li> <font color="#003300"><i><a href="https://thobonensta.github.io/files/remotesensing-1733979.pdf">A Two-Way Split-Step Wavelet Scheme for Tropospheric Long-Range Propagation in Various Environments.</a></i></font>
 <br> with Othmane Benhmammouch and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 <br> in Remote Sensing, 14(11), 2022.
 </li>
@@ -33,8 +31,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in Radio Science, 56(2), 2021.
 </li>
 
-
-</ol>
 
 <h3>Work in Progress</h3>
 
