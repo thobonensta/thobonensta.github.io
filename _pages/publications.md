@@ -125,7 +125,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <h3>Ph.D</h3>
 Title: <a href="https://thobonensta.github.io/files/Manuscrit_VF_Thomas_Bonnafont.pdf"><font color="#003300"><i>Modeling the Atmospheric Long-range Electromagnetic Waves Propagation in 3D Using the Wavelet Transform.</i></font></a> 
 <br><br>
-Supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/alexandre-chabory/" target="_blank">Alexandre Chabory</a> and <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douvenot/" target="_blank">Rémi Douvenot</a> au sein de l'équipe Electromagnetics and Antennas du laboratoire TELECOM de l'ENAC(<a href="http://ema.recherche.enac.fr/" target="_blank">EMA</a>).
+Supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/alexandre-chabory/" target="_blank">Alexandre Chabory</a> and <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douvenot/" target="_blank">Rémi Douvenot</a> in the Electromagnetics and Antennas team of the TELECOM laboratory at ENAC(<a href="http://ema.recherche.enac.fr/" target="_blank">EMA</a>).
 <br><br>
 Defended the 26th of november 2020 at the French Civil Aviation University (<a href="https://www.enac.fr/fr" target="_blank">ENAC</a>) in front of the following jury members <!--<a href="Presentations/thesis_defense.pdf"> <img border="0" src="logo-pdf.webp" width="25"></a>-->
 <ul>
