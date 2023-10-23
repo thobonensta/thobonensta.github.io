@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
 <h3>Education and professional experiences</h3> 
 <li> 2021- : Associate professor at <a href="https://www.ensta-bretagne.fr/fr" target="_blank"><i>ENSTA Bretagne</i></a></li>
