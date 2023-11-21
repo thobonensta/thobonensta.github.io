@@ -28,3 +28,5 @@ During his thesis in the Electromagnetism and Antennas (<a href="https://ema.rec
 He was a junior lecturer at the University of Pau, France, between September 2020 and 2021. During this year, he focuses on electromagnetic models and numerical methods for plasma and bio-electromagnetism. This research aims to better understand and describe the electroporation phenomena.
 
 Since September 2021 he is an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA Bretagne</a>. His research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems.
+
+He received a Young Scientist Award at the URSI GASS 2021 meeting in Rome.
