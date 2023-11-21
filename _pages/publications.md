@@ -34,7 +34,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <font color="#003300"><i>A finite volume method to solve the Poisson equation with jump conditions and surface charges: application to electroporation.</i></font>
 <br> with Delphine Bessières andd Jean Paillol.
-<br> submitted to Journal of Computational Physics, 2023, Under Review.
+<br> submitted to Journal of Computational Physics, 2023, Major Review.
 </li>
 
 <li> <font color="#003300"><i>Electromagnetic propagation above a polluted sea surface: modeling and statistical analysis.</i></font>
