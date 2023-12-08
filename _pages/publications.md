@@ -41,6 +41,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 </li>
 
+<li> <font color="#003300"><i>Propagation troposphérique par méthode d'apprentissage profond.</i></font>
+<br> with Abdelmalek Toumi.
+<br> submitted to JNM 2024.
+</li>
+
 <li> <font color="#003300"><i>A Deep Split-Step Wavelet Model for the Long-Range Propagation.</i></font>
 <br> with Benjamin Chauvel and Abdelmalek Toumi.
 <br> submitted to EuCAP 2024.
