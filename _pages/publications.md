@@ -46,13 +46,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> submitted to JNM 2024.
 </li>
 
+<h3>Proceedings</h3>
+
 <li> <font color="#003300"><i>A Deep Split-Step Wavelet Model for the Long-Range Propagation.</i></font>
 <br> with Benjamin Chauvel and Abdelmalek Toumi.
-<br> submitted to EuCAP 2024.
+<br> accepted to EuCAP 2024.
 </li>
 
-
-<h3>Proceedings</h3>
 <li>
     <font color="#003300"><i> A robust inverse scattering method based on shape optimization.</i></font>
     <br> with <a href="https://fcaubet001.perso.univ-pau.fr/" target="_blank">Fabien Caubet</a>.
