@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div id=contenu>
 <h2><B>Associate-Professor at ENSTA Bretagne</B></h2>
 
 I have been an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA Bretagne</a> since September 2021. I am a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM</a> (Propagation et Interaction Multi-échelle) team of the <a href="https://labsticc.fr/fr">Lab-STICC</a>.
 
-My main research interests are in numerical methods for electromagnetic applications and inverse problems. In particular, I focus on the following topics :
+My main research interests are numerical methods for electromagnetic applications and inverse problems. In particular, I focus on the following topics :
 <ul>
   <li>Computational techniques in electromagnetics (Asymptotic and Rigorous methods, Machine Learning based algorithm)</li>
   <li>Modeling wave propagation</li>
@@ -30,3 +30,4 @@ He was a junior lecturer at the University of Pau, France, between September 202
 Since September 2021 he has been an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA Bretagne</a>. His research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems.
 
 He received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 meeting in Rome and at the URSI AT-RASC 2024 conference in Gran Canaria.
+</div>
