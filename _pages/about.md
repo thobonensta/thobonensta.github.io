@@ -29,4 +29,4 @@ He was a junior lecturer at the University of Pau, France, between September 202
 
 Since September 2021 he has been an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA Bretagne</a>. His research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems.
 
-He received a Young Scientist Award at the URSI GASS 2021 meeting in Rome and at the URSI AT-RASC 2024 conference in Gran Canaria.
+He received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 meeting in Rome and at the URSI AT-RASC 2024 conference in Gran Canaria.
