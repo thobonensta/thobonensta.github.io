@@ -9,6 +9,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Journals</h3>
 
+<li> <font color="#003300"><i>A finite volume method to solve the Poisson equation with jump conditions and surface charges: application to electroporation.</i></font>
+<br> with Delphine Bessières and Jean Paillol.
+<br> in Journal of Computational Physics, 2024.
+</li>
+
 <li> <font color="#003300"><i>Computing the radar cross-section of dielectric targets using the Gaussian beam summation method.</i></font>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
 <br> in Remote Sensing, 15(14), 2023.
@@ -32,21 +37,29 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Work in Progress</h3>
 
-<li> <font color="#003300"><i>A finite volume method to solve the Poisson equation with jump conditions and surface charges: application to electroporation.</i></font>
-<br> with Delphine Bessières and Jean Paillol.
-<br> submitted to Journal of Computational Physics, 2023, Major Review.
-</li>
 
-<li> <font color="#003300"><i>Electromagnetic propagation above a polluted sea surface: modeling and statistical analysis.</i></font>
+<li> <font color="#003300"><i>Long-range electromagnetic propagation above a polluted sea surface: hybrid modeling.</i></font>
 <br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
+<br> Submitted to IEEE Transactions on Geoscience and Remote Sensing.
 </li>
 
-<li> <font color="#003300"><i>Propagation troposphérique par méthode d'apprentissage profond.</i></font>
-<br> with Abdelmalek Toumi.
-<br> submitted to JNM 2024.
-</li>
 
 <h3>Proceedings</h3>
+
+<li> <font color="#003300"><i>Physics-embedded machine learning method for the prediction of long-range electromagnetic field propagation.</i></font>
+<br> with Abdelmalek Toumi.
+<br> accepted to AES 2024 (SP2).
+</li>
+
+<li> <font color="#003300"><i>On the use of the parabolic wave equation to model the electromagnetic propagation in maritime environment.</i></font>
+<br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
+<br> accepted to AES 2024 (SP2).
+</li>
+
+<li> <font color="#003300"><i>Modeling of a biological cell exposed to an electrical pulse: a Discrete Dual Finite Volume method application.</i></font>
+<br> with Delphine Bessières and Jean Paillol.
+<br> accepted to URSI AT-RASC, <strong>Young Scientist Award</strong>, 2024.
+</li>
 
 <li> <font color="#003300"><i>A Deep Split-Step Wavelet Model for the Long-Range Propagation.</i></font>
 <br> with Benjamin Chauvel and Abdelmalek Toumi.
