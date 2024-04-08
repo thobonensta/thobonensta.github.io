@@ -11,7 +11,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <font color="#003300"><i>A finite volume method to solve the Poisson equation with jump conditions and surface charges: application to electroporation.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
-<br> in Journal of Computational Physics, 2024.
+<br> in Journal of Computational Physics, 504, 2024.
 </li>
 
 <li> <font color="#003300"><i>Computing the radar cross-section of dielectric targets using the Gaussian beam summation method.</i></font>
