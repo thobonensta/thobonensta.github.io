@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Bonnafont"
-  avatar           : "Picture_URSI_Bonnafont.jpeg"
-  bio              : "Associate-Professor at ENSTA Bretagne focusing on numerical methods for electromagnetic applications."
-  location         : "ENSTA Bretagne, Brest, France"
-  employer         :
+  avatar           : "IMG_9585.jpeg"
+  bio              : "Associate Professor at ENSTA Bretagne focusing on numerical methods for electromagnetic applications."
+  location         : "E104 office in ENSTA Bretagne"
+  employer         : "Lab-STICC, ENSTA Bretagne, Brest, France"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=Q1QRM9UAAAAJ&hl=fr"
   email            : thomas.bonnafont@ensta-bretagne.fr
