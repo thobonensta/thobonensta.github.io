@@ -69,12 +69,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <li>
     <font color="#003300"><i> A robust inverse scattering method based on shape optimization.</i></font>
     <br> with <a href="https://fcaubet001.perso.univ-pau.fr/" target="_blank">Fabien Caubet</a>.
-    <br> accepted to CAMA (Special Session “Challenges in measurement, calibration and processing procedures for electromagnetic imaging”), 2023.
+    <br> in CAMA (Special Session “Challenges in measurement, calibration and processing procedures for electromagnetic imaging”), 2023.
 </li>
 
 <li> <font color="#003300"><i>A parallel two-way split-step wavelet method for the tropospheric propagation.</i></font>
 <br> with Corentin Carré and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
-<br> accepted to CAMA, 2023.
+<br> in CAMA, 2023.
 </li>
 
 <li> <a href="https://thobonensta.github.io/files/AES23.pdf"><font color="#003300"><i>A hybrid wavelet-based method to model the electromagnetic propagation above a polluted sea surface.</i></font></a>
