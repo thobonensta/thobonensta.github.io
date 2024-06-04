@@ -19,7 +19,7 @@ supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douve
 <li> 2019 : Volunteer at the ElectroMagnetic Wave and Wind Turbines conference <a href="https://emwt2019.sciencesconf.org/" target="_blank"><i>EMWT</i></a> at l'ENAC</li>
 <li> 2015-2016 : Volunteer for the french program of "Les Cordées de la réussite" </li>
 
-<h3>Scientif actvities</h3>
+<h3>Scientific actvities</h3>
 <li> URSI-France Member </li>
 <li> Reviewer for EuCAP 2024, Radio Science, URSI Radio Science Letters, MDPI Remote Sensing, MDPI Atmosphere </li>
 
