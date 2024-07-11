@@ -48,22 +48,22 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <font color="#003300"><i>Physics-embedded machine learning method for the prediction of long-range electromagnetic field propagation.</i></font>
 <br> with Abdelmalek Toumi.
-<br> accepted to AES 2024 (SP2).
+<br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2).
 </li>
 
 <li> <font color="#003300"><i>On the use of the parabolic wave equation to model the electromagnetic propagation in maritime environment.</i></font>
 <br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
-<br> accepted to AES 2024 (SP2).
+<br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2).
 </li>
 
 <li> <font color="#003300"><i>Modeling of a biological cell exposed to an electrical pulse: a Discrete Dual Finite Volume method application.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
-<br> accepted to URSI AT-RASC, <strong>Young Scientist Award</strong>, 2024.
+<br> in URSI AT-RASC, <strong>Young Scientist Award</strong>, 2024.
 </li>
 
 <li> <font color="#003300"><i>A Deep Split-Step Wavelet Model for the Long-Range Propagation.</i></font>
 <br> with Benjamin Chauvel and Abdelmalek Toumi.
-<br> accepted to EuCAP 2024.
+<br> in European Conference on Antennas and Propagation (EuCAP), 2024.
 </li>
 
 <li>
