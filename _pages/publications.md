@@ -9,6 +9,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Journals</h3>
 
+<li> <font color="#003300"><i>Long-range electromagnetic propagation above a polluted sea surface: hybrid modeling.</i></font>
+<br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
+<br> Accepted to IEEE Geoscience and Remote Sensing Letters.
+</li>
+
+
 <li> <font color="#003300"><i>A finite volume method to solve the Poisson equation with jump conditions and surface charges: application to electroporation.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
 <br> in Journal of Computational Physics, 504, 2024.
@@ -35,13 +41,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 
-<h3>Work in Progress</h3>
 
 
-<li> <font color="#003300"><i>Long-range electromagnetic propagation above a polluted sea surface: hybrid modeling.</i></font>
-<br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
-<br> Revised and resubmitted to IEEE Geoscience and Remote Sensing Letters.
-</li>
 
 
 <h3>Proceedings</h3>
