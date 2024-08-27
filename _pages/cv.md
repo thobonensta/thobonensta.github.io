@@ -21,7 +21,7 @@ supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douve
 
 <h3>Scientific actvities</h3>
 <li> URSI-France Member </li>
-<li> Reviewer for EuCAP 2024, Radio Science, URSI Radio Science Letters, MDPI Remote Sensing, MDPI Atmosphere </li>
+<li> Reviewer for Acta Biomaterialia, EuCAP 2025, EuCAP 2024, Radio Science, URSI Radio Science Letters, MDPI Remote Sensing, MDPI Atmosphere </li>
 
 
 
