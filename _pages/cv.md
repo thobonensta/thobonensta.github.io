@@ -20,7 +20,7 @@ supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douve
 <li> 2015-2016 : Volunteer for the french program of "Les Cordées de la réussite" </li>
 
 <h3>Scientific actvities</h3>
-<li> URSI-France Member </li>
+<li> IEEE and GRSS Member, URSI-France Member </li>
 <li> Reviewer for Acta Biomaterialia, EuCAP 2025, EuCAP 2024, Radio Science, URSI Radio Science Letters, MDPI Remote Sensing, MDPI Atmosphere </li>
 
 <h3>Visiting at other laboratories and universities</h3>
