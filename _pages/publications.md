@@ -11,7 +11,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <font color="#003300"><i>Long-range electromagnetic propagation above a polluted sea surface: hybrid modeling.</i></font>
 <br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
-<br> Accepted to IEEE Geoscience and Remote Sensing Letters.
+<br> in press, IEEE Geoscience and Remote Sensing Letters.
 </li>
 
 
