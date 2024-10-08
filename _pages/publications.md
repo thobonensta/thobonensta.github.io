@@ -9,13 +9,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Journals</h3>
 
-<li> <font color="#003300"><i>Long-range electromagnetic propagation above a polluted sea surface: hybrid modeling.</i></font>
+<li> <a href="https://thobonensta.github.io/files/FINALVERSIONpreprint.pdf"><font color="#003300"><i>Long-range electromagnetic propagation above a polluted sea surface: hybrid modeling.</i></font></a>
 <br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 <br> in IEEE Geoscience and Remote Sensing Letters, 21, 2024.
 </li>
 
 
-<li> <font color="#003300"><i>A finite volume method to solve the Poisson equation with jump conditions and surface charges: application to electroporation.</i></font>
+<li> <a href="https://thobonensta.github.io/files/elsarticle-template-num-preprint.pdf"><font color="#003300"><i>A finite volume method to solve the Poisson equation with jump conditions and surface charges: application to electroporation.</i></font></a>
 <br> with Delphine Bessières and Jean Paillol.
 <br> in Journal of Computational Physics, 504, 2024.
 </li>
@@ -47,22 +47,22 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Proceedings</h3>
 
-<li> <font color="#003300"><i>Physics-embedded machine learning method for the prediction of long-range electromagnetic field propagation.</i></font>
+<li> <a href="https://thobonensta.github.io/files/AES_summary_template_v2.pdf"><font color="#003300"><i>Physics-embedded machine learning method for the prediction of long-range electromagnetic field propagation.</i></font></a>
 <br> with Abdelmalek Toumi.
 <br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2).
 </li>
 
-<li> <font color="#003300"><i>On the use of the parabolic wave equation to model the electromagnetic propagation in maritime environment.</i></font>
+<li> <a href="https://thobonensta.github.io/files/AES_summary_BonnafontKhenchaf_V1.pdf"><font color="#003300"><i>On the use of the parabolic wave equation to model the electromagnetic propagation in maritime environment.</i></font></a>
 <br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 <br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2).
 </li>
 
-<li> <font color="#003300"><i>Modeling of a biological cell exposed to an electrical pulse: a Discrete Dual Finite Volume method application.</i></font>
+<li> <a href="https://thobonensta.github.io/files/URSI_Summary_Paper_Template.pdf"><font color="#003300"><i>Modeling of a biological cell exposed to an electrical pulse: a Discrete Dual Finite Volume method application.</i></font></a>
 <br> with Delphine Bessières and Jean Paillol.
 <br> in URSI AT-RASC, <strong>Young Scientist Award</strong>, 2024.
 </li>
 
-<li> <font color="#003300"><i>A Deep Split-Step Wavelet Model for the Long-Range Propagation.</i></font>
+<li> <a href="https://thobonensta.github.io/files/EuCAP2024_template_v2.pdf"><font color="#003300"><i>A Deep Split-Step Wavelet Model for the Long-Range Propagation.</i></font></a>
 <br> with Benjamin Chauvel and Abdelmalek Toumi.
 <br> in European Conference on Antennas and Propagation (EuCAP), 2024.
 </li>
