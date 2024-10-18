@@ -42,7 +42,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 
-
+<h3>Work in progress</h3>
+<li> <font color="#003300"><i>A Fast Wavelet-Based Hybrid Method to Model the RCS of Metallic Targets in Maritime Environment.</i></font>
+<br> with Corentin Carré and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
+<br> submitted to the European Conference on Antennas and Propagation (EuCAP), 2025.
+</li>
 
 
 <h3>Proceedings</h3>
