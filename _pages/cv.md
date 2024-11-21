@@ -31,7 +31,7 @@ supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douve
 <li>June-July 2022 (4 weeks): Research stays at the SIAME (with Jean Paillol and Delphine Bessières) laboratory of the University of Pau</li>
 
 <h3>Miscellaneous</h3>
-<li> Languages: French, English (B2), Spanish (A2), German (A2)</li>
+<li> Languages: French, English (B2), Spanish (B1), German (A2)</li>
 <li> Sports: Trail running, Surf, Ski
 <br>
 <br>
