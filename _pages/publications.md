@@ -44,6 +44,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Work in progress</h3>
 
+<li> <font color="#003300"><i>Split-step framelet: leveraging wavelet frames for tropospheric long-range propagation.</i></font>
 
 <li> <font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets.</i></font>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
@@ -55,9 +56,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> submitted to ICARS'25, 2025.
 </li>
 
+<li> <font color="#003300"><i>Benchmark entre plusieurs méthodes hybrides rapides pour modéliser et calculer la SER de cibles métalliques en milieu maritime.</i></font>
+<br> with Corentin Carré, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>, and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
+<br> submitted ENVIREM, 2025.
+</li>
+
+
 <li> <font color="#003300"><i>A Fast Wavelet-Based Hybrid Method to Model the RCS of Metallic Targets in Maritime Environment.</i></font>
 <br> with Corentin Carré and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
-<br> submitted to the European Conference on Antennas and Propagation (EuCAP), 2025.
+<br> Accepted to the European Conference on Antennas and Propagation (EuCAP), 2025.
 </li>
 
 
