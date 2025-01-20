@@ -21,7 +21,7 @@ supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douve
 
 <h3>Scientific actvities</h3>
 <li> IEEE and GRSS Member, URSI-France Member </li>
-<li> Reviewer for Acta Biomaterialia, EuCAP 2025, EuCAP 2024, Radio Science, URSI Radio Science Letters, MDPI Remote Sensing, MDPI Atmosphere </li>
+<li> Reviewer for IEEE Transactions on Antennas and Propagation, Acta Biomaterialia, EuCAP 2025, EuCAP 2024, Radio Science, URSI Radio Science Letters, MDPI Remote Sensing, MDPI Atmosphere </li>
 
 <h3>Visiting at other laboratories and universities</h3>
 <li>December 2024 (2 weeks): Research stays at the SIAME (with Jean Paillol and Delphine Bessières) laboratory of the University of Pau under the ARPEGE Grant of the GDR Emili</li>
