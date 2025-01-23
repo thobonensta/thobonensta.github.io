@@ -50,12 +50,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets.</i></font>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
-<br> submitted to ICARS'25, 2025.
+<br> accepted to ICARS'25, 2025.
 </li>
 
 <li> <font color="#003300"><i>Benchmark between several fast hybrid methods to model the RCS of metallic target in maritime environment.</i></font>
 <br> with Corentin Carré, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>, and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
-<br> submitted to ICARS'25, 2025.
+<br> accepted to ICARS'25, 2025.
 </li>
 
 <li> <font color="#003300"><i>Benchmark entre plusieurs méthodes hybrides rapides pour modéliser et calculer la SER de cibles métalliques en milieu maritime.</i></font>
