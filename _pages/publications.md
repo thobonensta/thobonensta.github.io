@@ -44,6 +44,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Work in progress</h3>
 
+<li> <font color="#003300"><i>Benchmark of several stochastic finite element approaches for the Poisson equation.</i></font>
+<br> with Titouan Marquaille, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> submitted to EMTS 2025, 2025.
+</li>
+
 <li> <font color="#003300"><i>Split-step framelet: leveraging wavelet frames for tropospheric long-range propagation.</i></font>
 <br> submitted to EMTS 2025, 2025.
 </li>
