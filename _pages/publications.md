@@ -146,7 +146,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <a href="https://thobonensta.github.io/files/URSI_GASS_2021.pdf"><font color="#003300"><i>3D split-step wavelet method for the propagation over impedance ground condition.</i></font></a>
 <br> with <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douvenot/" target="_blank">Rémi Douvenot</a> and <a href="http://ema.recherche.enac.fr/permanent-staff-2/alexandre-chabory/" target="_blank">Alexandre Chabory</a>.
-<br> in General Assembly and Scientific Symposium (GASS) of the International Union of Radio Science, <strong>Young Scientist Award</strong>, 2021.
+<br> in URSI GASS, <strong>Young Scientist Award</strong>, 2021.
 </li>
 
 
