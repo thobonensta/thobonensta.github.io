@@ -32,5 +32,5 @@ I was born in Pau in 1994. I graduated as an Electronics and Telecommunication e
 <br>I received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 meeting in Rome and the URSI AT-RASC 2024 conference in Gran Canaria.
 <br>
 <br>
-<img src="field_RO_1.png" alt=" Propagation in a radio occultation scenario computed with SSW." width="400" height="400">&emsp;&emsp;&emsp;&emsp;<img src="shaperetrievz.gif" width="400" height="400">
+<img src="field_RO_1.png" alt=" Propagation in a radio occultation scenario computed with SSW." width="400" height="400">&emsp;&emsp;<img src="shaperetrievz.gif" width="400" height="400">
 </div>
