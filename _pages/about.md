@@ -30,6 +30,7 @@ I was born in Pau in 1994. I graduated as an Electronics and Telecommunication e
 <br>Since September 2021 I am an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA (Brest)</a>. My research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems. I am thus a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM team</a> within the <a href="https://labsticc.fr/fr">Lab-STICC</a>. I am also an IEEE, a GRSS, and a URSI-France Member.
 <br>
 <br>I received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 meeting in Rome and at the URSI AT-RASC 2024 conference in Gran Canaria.
-
-<img src="one_way_Toulouse.png"/>
+<br>
+<br>
+<img src="one_way_Toulouse.png" alt="Propagation from Toulouse to Montauban computed with SSW." width="500" height="600">
 </div>
