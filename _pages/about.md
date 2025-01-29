@@ -32,5 +32,5 @@ I was born in Pau in 1994. I graduated as an Electronics and Telecommunication e
 <br>I received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 meeting in Rome and the URSI AT-RASC 2024 conference in Gran Canaria.
 <br>
 <br>
-<img src="one_way_Toulouse.png" alt="Propagation from Toulouse to Montauban computed with SSW." width="500" height="600">
+<img src="one_way_Toulouse.png" alt="Propagation from Toulouse to Montauban computed with SSW." width="300" height="300"> <img src="shaperetrievz.gif" width="300" height="300">
 </div>
