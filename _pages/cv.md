@@ -14,6 +14,7 @@ supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douve
 <li> 2014-2017: Engineer degree with a major in telecommunication and electromagnetism at the French Civil Aviation University (<a href="https://www.enac.fr/fr" target="_blank"><i>ENAC</i></a>) </li>
 
 <h3>Collective responsabilities</h3>
+<li> -2028: Member of the local committee to organize the JNM 2028 in Brest </li>
 <li> 2018-2020: Alternate delegate at the research council of ENAC </li>
 <li> 2020 : Organizer of the ENAC/<a href="https://www.enac.fr/fr/equipe-telecom-telecommunication" target="_blank"><i>TELECOM</i></a> laboratory meeting </li>
 <li> 2019: Volunteer at the ElectroMagnetic Wave and Wind Turbines conference <a href="https://emwt2019.sciencesconf.org/" target="_blank"><i>EMWT</i></a> at l'ENAC</li>
