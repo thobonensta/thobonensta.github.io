@@ -65,7 +65,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <font color="#003300"><i>Benchmark entre plusieurs méthodes hybrides rapides pour modéliser et calculer la SER de cibles métalliques en milieu maritime.</i></font>
 <br> with Corentin Carré, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>, and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
-<br> submitted ENVIREM, 2025.
+<br> submitted to ENVIREM, 2025.
 </li>
 
 
@@ -79,12 +79,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li> <a href="https://thobonensta.github.io/files/AES_summary_template_v2.pdf"><font color="#003300"><i>Physics-embedded machine learning method for the prediction of long-range electromagnetic field propagation.</i></font></a>
 <br> with Abdelmalek Toumi.
-<br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2).
+<br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2, Invited).
 </li>
 
 <li> <a href="https://thobonensta.github.io/files/AES_summary_BonnafontKhenchaf_V1.pdf"><font color="#003300"><i>On the use of the parabolic wave equation to model the electromagnetic propagation in maritime environment.</i></font></a>
 <br> with <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
-<br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2).
+<br> in International Conference on Antennas and Electromagnetic Systems (AES), 2024 (SP2, Invited).
 </li>
 
 <li> <a href="https://thobonensta.github.io/files/URSI_Summary_Paper_Template.pdf"><font color="#003300"><i>Modeling of a biological cell exposed to an electrical pulse: a Discrete Dual Finite Volume method application.</i></font></a>
