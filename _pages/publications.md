@@ -44,7 +44,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Work in progress</h3>
 
-<li> <a href="https://thobonensta.github.io/files/URSI_Summary_Paper_Template.pdf"><font color="#003300"><i>A discrete dual finite volume method for the convection-diffusion equation: toward cold-plasma modeling.</i></font></a>
+<li><font color="#003300"><i>A discrete dual finite volume method for the convection-diffusion equation: toward cold-plasma modeling.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
 <br> accepted to CM3P 2025, 2025.
 </li>
