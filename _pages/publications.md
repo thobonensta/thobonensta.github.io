@@ -46,16 +46,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li><font color="#003300"><i>A discrete dual finite volume method for the convection-diffusion equation: toward cold-plasma modeling.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
-<br> accepted to CM3P 2025, 2025.
+<br> accepted to CM3P, 2025.
 </li>
 
 <li> <font color="#003300"><i>Benchmark of several stochastic finite element approaches for the Poisson equation.</i></font>
 <br> with Titouan Marquaille, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
-<br> accepted to EMTS 2025, 2025.
+<br> accepted to EMTS, 2025.
 </li>
 
 <li> <font color="#003300"><i>Split-step framelet: leveraging wavelet frames for tropospheric long-range propagation.</i></font>
-<br> accepted to EMTS 2025, 2025.
+<br> accepted to EMTS, 2025.
 </li>
 
 <li> <font color="#003300"><i>Benchmark entre plusieurs méthodes hybrides rapides pour modéliser et calculer la SER de cibles métalliques en milieu maritime.</i></font>
