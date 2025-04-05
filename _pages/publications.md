@@ -75,6 +75,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> accepted to the European Conference on Antennas and Propagation (EuCAP), 2025.
 </li>
 
+<li>  <a href="https://sciforum.net/paper/view/21621"><font color="#003300"><i>Benchmark between several fast hybrid methods to model the RCS of metallic targets in maritime environment.</i></font></a>
+<br> with Corentin Carré, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>, and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
+<br> in International Conference on Advanced Remote Sensing (ICARS), 2025.
+</li>
+
 
 <li> <a href="https://thobonensta.github.io/files/AES_summary_template_v2.pdf"><font color="#003300"><i>Physics-embedded machine learning method for the prediction of long-range electromagnetic field propagation.</i></font></a>
 <br> with Abdelmalek Toumi.
