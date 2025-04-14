@@ -48,6 +48,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 <li><font color="#003300"><i>A physics-guided neural network for real-time electromagnetic field predictions over various terrain.</i></font>
+<br> submitted to IEEE Transactions on Antennas and Propagation, 2025.    
 </li>
 
 <h3>Proceedings</h3>
