@@ -25,7 +25,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in Remote Sensing, 15(14), 2023.
 </li>
 
-<li> <a href="https://thobonensta.github.io/files/remotesensing-1733979.pdf"><font color="#003300"><i>A Two-Way Split-Step Wavelet Scheme for Tropospheric Long-Range Propagation in Various Environments.</i></font></a>
+<li> <a href="https://thobonensta.github.io/files/remotesensing-1733979.pdf"><font color="#003300"><i>A two-way split-step wavelet scheme for tropospheric long-range propagation in various environments.</i></font></a>
 <br> with Othmane Benhmammouch and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 <br> in Remote Sensing, 14(11), 2022.
 </li>
@@ -71,7 +71,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> accepted to ENVIREM, 2025.
 </li>
 
-<li> <font color="#003300"><i>A Fast Wavelet-Based Hybrid Method to Model the RCS of Metallic Targets in Maritime Environment.</i></font>
+<li> <font color="#003300"><i>A fast wavelet-based hybrid method to model the RCS of metallic targets in maritime environment.</i></font>
 <br> with Corentin Carré and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 <br> accepted to the European Conference on Antennas and Propagation (EuCAP), 2025.
 </li>
@@ -97,7 +97,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in URSI AT-RASC, <strong>Young Scientist Award</strong>, 2024.
 </li>
 
-<li> <a href="https://thobonensta.github.io/files/EuCAP2024_template_v2.pdf"><font color="#003300"><i>A Deep Split-Step Wavelet Model for the Long-Range Propagation.</i></font></a>
+<li> <a href="https://thobonensta.github.io/files/EuCAP2024_template_v2.pdf"><font color="#003300"><i>A deep split-step wavelet model for the long-range propagation.</i></font></a>
 <br> with Benjamin Chauvel and Abdelmalek Toumi.
 <br> in European Conference on Antennas and Propagation (EuCAP), 2024.
 </li>
