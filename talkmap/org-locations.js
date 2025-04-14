@@ -84,4 +84,14 @@ var addressPoints = [
     41.902784,
     12.496366
   ],
+  [
+    "Bologna, Italy",
+    44.498955,
+    11.327591
+  ],
+    [
+    "Porto, Portugal",
+    41.15,
+    -8.61
+  ],
 ];
