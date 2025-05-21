@@ -25,6 +25,7 @@ supervised by <a href="http://ema.recherche.enac.fr/permanent-staff-2/remi-douve
 <li> Reviewer for IEEE Transactions on Antennas and Propagation, Acta Biomaterialia, EuCAP 2025, EuCAP 2024, Radio Science, URSI Radio Science Letters, MDPI Remote Sensing, MDPI Atmosphere </li>
 
 <h3>Visiting at other laboratories and universities</h3>
+<li>May 2025 (1 week): Research stays at the SIAME (with Jean Paillol and Delphine Bessières) laboratory of the University of Pau under the ARPEGE Grant of the GDR Emili</li>
 <li>December 2024 (2 weeks): Research stays at the SIAME (with Jean Paillol and Delphine Bessières) laboratory of the University of Pau under the ARPEGE Grant of the GDR Emili</li>
 <li>July-August 2024 (3 weeks): Research stays at the LMAP (with <a href="https://fcaubet001.perso.univ-pau.fr/" target="_blank">Fabien Caubet</a>) and SIAME (with Jean Paillol and Delphine Bessières) laboratories of the University of Pau</li>
 <li>February 2024 (1 week): Research stays at the LMAP (with <a href="https://fcaubet001.perso.univ-pau.fr/" target="_blank">Fabien Caubet</a>) laboratory of the University of Pau</li>
