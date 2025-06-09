@@ -51,10 +51,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> with Delphine Bessières and Jean Paillol.
 </li>
 
-<li><font color="#003300"><i>A physics-guided neural network for real-time electromagnetic field predictions over various terrain.</i></font>
-<br> submitted to IEEE Transactions on Antennas and Propagation, April 2025.    
-</li>
-
 <h3>Proceedings</h3>
 <li><font color="#003300"><i>A discrete dual finite volume method for the convection-diffusion equation: toward cold-plasma modeling.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
