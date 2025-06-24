@@ -49,6 +49,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
+<br> submitted to Applied Numerical Mathematics, June 2025. 
 </li>
 
 <h3>Proceedings</h3>
@@ -66,12 +67,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> accepted to EMTS, 2025.
 </li>
 
-<li> <font color="#003300"><i>Benchmark entre plusieurs méthodes hybrides rapides pour modéliser et calculer la SER de cibles métalliques en milieu maritime.</i></font>
+<li> <a href="https://thobonensta.github.io/files/Article_ENVIREM.pdf"><font color="#003300"><i>Benchmark entre plusieurs méthodes hybrides rapides pour modéliser et calculer la SER de cibles métalliques en milieu maritime.</i></font></a>
 <br> with Corentin Carré, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>, and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
 <br> accepted to ENVIREM, 2025.
 </li>
 
-<li> <font color="#003300"><i>A fast wavelet-based hybrid method to model the RCS of metallic targets in maritime environment.</i></font>
+<li> <a href="https://thobonensta.github.io/files/EuCAP2025wMoMSSW.pdf"><font color="#003300"><i>A fast wavelet-based hybrid method to model the RCS of metallic targets in maritime environment.</i></font></a>
 <br> with Corentin Carré and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
 <br> in European Conference on Antennas and Propagation (EuCAP), 2025.
 </li>
