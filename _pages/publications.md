@@ -44,7 +44,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Work in progress</h3>
 <li><font color="#003300"><i>A wavelet-frames based split-step method to model the tropospheric long-range propagation.</i></font> 
-<br> submitted to IEEE Transactions on Antennas and Propagation, May 2025. 
+<br> revised and resubmitted to IEEE Transactions on Antennas and Propagation (Major Review), May 2025. 
 </li>
 
 <li><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font>
