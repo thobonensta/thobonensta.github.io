@@ -63,7 +63,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in International Symposium on Electromagnetic Theory (EMTS), 2025.
 </li>
 
-<li> <a href="https://thobonensta.github.io/files/EMTS2025.pdf"><font color="#003300"><i>Split-step framelet: leveraging wavelet frames for tropospheric long-range propagation.</i></font></a>
+<li> <a href="https://thobonensta.github.io/files/EMTS25.pdf"><font color="#003300"><i>Split-step framelet: leveraging wavelet frames for tropospheric long-range propagation.</i></font></a>
 <br> in International Symposium on Electromagnetic Theory (EMTS), 2025.
 </li>
 
