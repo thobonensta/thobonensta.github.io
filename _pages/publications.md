@@ -53,7 +53,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 <h3>Proceedings</h3>
-<li><font color="#003300"><i>A discrete dual finite volume method for the convection-diffusion equation: toward cold-plasma modeling.</i></font>
+<li> <a href="https://thobonensta.github.io/files/CM3P2025.pdf"><font color="#003300"><i>A discrete dual finite volume method for the convection-diffusion equation: toward cold-plasma modeling.</i></font></a>
 <br> with Delphine Bessières and Jean Paillol.
 <br> in CM3P, 2025.
 </li>
@@ -63,7 +63,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in International Symposium on Electromagnetic Theory (EMTS), 2025.
 </li>
 
-<li> <font color="#003300"><i>Split-step framelet: leveraging wavelet frames for tropospheric long-range propagation.</i></font>
+<li> <a href="https://thobonensta.github.io/files/EMTS2025.pdf"><font color="#003300"><i>Split-step framelet: leveraging wavelet frames for tropospheric long-range propagation.</i></font></a>
 <br> in International Symposium on Electromagnetic Theory (EMTS), 2025.
 </li>
 
