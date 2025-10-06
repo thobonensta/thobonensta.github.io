@@ -123,7 +123,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in International Conference on Antennas and Electromagnetic Systems (AES), 2023.
 </li>
 
-<li> <a href="https://thobonensta.github.io/files/EUCAP2023_template_V02.pdf"><font color="#003300"><i>Inverse scattering using a Kohn-Vogelius formulation and shape optimization method.</i></font></a>
+<li> <a href="https://thobonensta.github.io/files/EuCAP2023_template_V02.pdf"><font color="#003300"><i>Inverse scattering using a Kohn-Vogelius formulation and shape optimization method.</i></font></a>
 <br> with <a href="https://fcaubet001.perso.univ-pau.fr/" target="_blank">Fabien Caubet</a>.
 <br> in European Conference on Antennas and Propagation (EuCAP), 2023.
 </li>
