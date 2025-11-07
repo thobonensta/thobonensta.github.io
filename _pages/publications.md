@@ -47,14 +47,19 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 <h3>Work in progress</h3>
+<li><font color="#003300"><i>Polynomial chaos based uncertainty analysis of a biological cell exposed to an electrical field.</i></font>
+<br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> submitted to Applied Physics Letters, November 2025 (Under Review). 
+</li>
+
 <li><font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets in mono or bi-static configurations.</i></font>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
-<br> submitted to IET Radar, Sonar & Navigation, October 2025. 
+<br> submitted to IET Radar, Sonar & Navigation, October 2025 (Major Review). 
 </li>
 
 <li><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
-<br> submitted to Applied Numerical Mathematics, June 2025. 
+<br> submitted to Applied Numerical Mathematics, June 2025 (Under Review). 
 </li>
 
 <h3>Proceedings</h3>
@@ -64,7 +69,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 <li> <a href="https://thobonensta.github.io/files/Article_EMTS.pdf"><font color="#003300"><i>Benchmark of several stochastic finite element approaches for the Poisson equation.</i></font></a>
-<br> with Titouan Marquaille, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
 <br> in International Symposium on Electromagnetic Theory (EMTS), 2025.
 </li>
 
