@@ -66,7 +66,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
-<br> submitted to Applied Numerical Mathematics, June 2025 (Under Review). 
+<br> submitted to Applied Numerical Mathematics, June 2025 (Major Review). 
 </li>
 
 <h3>Proceedings</h3>
