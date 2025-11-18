@@ -47,7 +47,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 <h3>Work in progress</h3>
-    <a href="https://thobonensta.github.io/files/conference_101719_v2.pdf"><font color="#003300"><i> Simultaneous reconstruction of an obstacle and its wavenumber for the Helmholtz equation: a robust optimization approach.</i></font></a>
+   <li><font color="#003300"> <a href="https://thobonensta.github.io/files/conference_101719_v2.pdf"><font color="#003300"><i> Simultaneous reconstruction of an obstacle and its wavenumber for the Helmholtz equation: a robust optimization approach.</i></font></a>
     <br> with <a href="https://fcaubet001.perso.univ-pau.fr/" target="_blank">Fabien Caubet</a>, Nicolas Grima and Jason Tridon.
     <br> submitted to Inverse Problems, November 2025.
 </li>
