@@ -52,8 +52,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <br> submitted to Inverse Problems, November 2025.
 </li>
 
-
-
 <li><font color="#003300"><i>Polynomial chaos based uncertainty analysis of a biological cell exposed to an electrical field.</i></font>
 <br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
 <br> submitted to Journal of Mathematical Physics, November 2025 (Under Review). 
@@ -61,12 +59,17 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li><font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets in mono or bi-static configurations.</i></font>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
-<br> submitted to IET Radar, Sonar & Navigation, October 2025 (Major Review). 
+<br> revised and resubmitted to IET Radar, Sonar & Navigation, October 2025 (Major Review). 
 </li>
 
 <li><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font>
 <br> with Delphine Bessières and Jean Paillol.
 <br> submitted to Applied Numerical Mathematics, June 2025 (Major Review). 
+</li>
+
+<li><font color="#003300"><i>Quantification d'incertitude sur des mesures quasi-optiques en bande J pour des applications à la caractérisation des matériaux.</i></font>
+<br> with Adam El Hammoud, Titouan Marquaille, Gregory Gaudin, Clement Henry, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> submitted to JNM 2026 (Conference). 
 </li>
 
 <h3>Proceedings</h3>
