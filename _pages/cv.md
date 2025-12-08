@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <h3>Education and professional experiences</h3> 
+<li> 2025-: Research Engineer (Paris)</li>
 <li> 2021-2025: Associate professor at <a href="https://www.ensta-bretagne.fr/fr" target="_blank"><i>ENSTA (Brest)</i></a></li>
 <li> 2020-2021: Junior lecturer at the University of Pau (<a href="https://www.univ-pau.fr/fr/index.html" target="_blank"><i>UPPA</i></a>)</li>
 <li> 2017-2020: PhD in Electromagnetism at the French Civil Aviation University (<a href="https://www.enac.fr/fr" target="_blank"><i>ENAC</i></a>) <br>
