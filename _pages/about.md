@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align:left;">
-<h2><B>Associate-Professor at ENSTA Bretagne</B></h2>
+<h2><B>Research Engineer</B></h2>
 
-I have been an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA (Brest)</a> since September 2021. I am a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM</a> (Propagation et Interaction Multi-échelle) team of the <a href="https://labsticc.fr/fr">Lab-STICC</a>.
 
 <br>My main research interests are numerical methods for electromagnetic applications and inverse problems. In particular, I focus on the following topics :
 <ul>
@@ -27,7 +26,7 @@ I was born in Pau in 1994. I graduated as an Electronics and Telecommunication e
 <br>
 <br>I was then enrolled as a junior lecturer at the <a href="https://www.univ-pau.fr/fr/index.html">University of Pau</a>, France, between September 2020 and 2021. This year, I focused on electromagnetic models and numerical methods for plasma and bio-electromagnetism. This research aims at modeling the electroporation phenomena and efficiently solving the obtained PDEs and was done in the <a href="https://siame.univ-pau.fr/fr/organisation/equipes/equipe-procedes-haute-tension.html">SIAME PHT team</a>.
 <br>
-<br>Since September 2021 I am an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA (Brest)</a>. My research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems. I am thus a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM team</a> within the <a href="https://labsticc.fr/fr">Lab-STICC</a>. I am also an IEEE, a GRSS, and a URSI-France Member.
+<br>From September 2021 to December 2025, I was an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA (Brest)</a>. My research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems, uncertainty quantification in PDEs, as well as the use of machine-learning for modeling electromagnetic phenomena and inverse scattering. I am a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM team</a> within the <a href="https://labsticc.fr/fr">Lab-STICC</a>. I am also an IEEE, a GRSS, and a URSI-France Member.
 <br>
 <br>I received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 meeting in Rome and the URSI AT-RASC 2024 conference in Gran Canaria.
 <br>
