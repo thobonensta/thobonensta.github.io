@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thomas Bonnafont"
 title_separator          : "-"
 name                     : &name "Bonnafont"
-description              : &description "This is the personal website of Thomas Bonnafont (Associate Professor at ENSTA (Brest))"
+description              : &description "This is the personal website of Thomas Bonnafont (Research Engineer)"
 url                      : https://thobonensta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thobonensta/thobonensta.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Thomas Bonnafont"
   avatar           : "IMG_2601.jpg"
-  bio              : "Associate Professor at ENSTA (Brest) focusing on numerical methods for electromagnetic applications."
-  location         : "ENSTA, Brest, France"
-  employer         : "Lab-STICC, UMR 6285"
+  bio              : "Research Engineer focusing on numerical methods for electromagnetic applications."
+  location         : "Paris, France"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=Q1QRM9UAAAAJ&hl=fr"
   email            : thomas.bonnafont@ensta.fr
