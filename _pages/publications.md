@@ -53,9 +53,31 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 <h3>Work in progress</h3>
+
+
+<li> <font color="#003300"><i>A Stochastic Boundary Element Method for electromagnetic scattering in random media.</i></font>
+<br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> submitted to WAVES 2026.
+</li>
+
+<li> <font color="#003300"><i>An efficient stochastic finite-element method to quantify the uncertainty in the electroporation phenomena.</i></font>
+<br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> submitted to GASS 2026.
+</li>
+
+<li><font color="#003300"><i>Modèle proxy pour la quantification d’incertitudes dans un système de mesure quasi-optique en bande J.</i></font>
+<br> with Adam El Hammoud, Titouan Marquaille, Gregory Gaudin, Clement Henry, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> submitted to Journées Scientifiques URSI France 2026 (Conference). 
+</li>
+
+<li><font color="#003300"><i>Réseau neuronal guidé par la physique pour modéliser la propagation troposphérique.</i></font>
+<br> with Abdelmalek Toumi, Emma Marcos and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
+<br> submitted to Journées Scientifiques URSI France 2026 (Conference). 
+</li>
+
    <li><a href="https://thobonensta.github.io/files/Transmission.pdf"><font color="#003300"><i> Simultaneous reconstruction of an obstacle and its wavenumber for the Helmholtz equation: a robust optimization approach.</i></font></a>
     <br> with <a href="https://fcaubet001.perso.univ-pau.fr/" target="_blank">Fabien Caubet</a>, Nicolas Grima and Jason Tridon.
-    <br> submitted to Inverse Problems, November 2025.
+    <br> submitted to Inverse Problems, November 2025 (Major Review).
 </li>
 
 
