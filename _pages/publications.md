@@ -87,7 +87,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <li><font color="#003300"><i>Quantification d'incertitude sur des mesures quasi-optiques en bande J pour des applications à la caractérisation des matériaux.</i></font>
 <br> with Adam El Hammoud, Titouan Marquaille, Gregory Gaudin, Clement Henry, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
-<br> submitted to JNM 2026 (Conference). 
+<br> accepted to JNM 2026 (Conference). 
 </li>
 
 <h3>Proceedings</h3>
