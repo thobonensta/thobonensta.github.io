@@ -13,7 +13,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <br> accepted to Inverse Problems, 2026.
 </li>
 
-<li><a href="https://thobonensta.github.io/files/CleanVersion.pdf"><font color="#003300"><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font></a>
+<li><a href="https://thobonensta.github.io/files/CleanVersion.pdf"><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font></a>
 <br> with Delphine Bessières and Jean Paillol.
 <br> in Applied Numerical Mathematics, 225, 2026. 
 </li>
@@ -24,7 +24,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in IET Radar, Sonar & Navigation, 20(1), 2026. 
 </li>
 
-<li><a href="https://thobonensta.github.io/files/main.pdf"><font color="#003300"><font color="#003300"><i>A wavelet-frames based split-step method to model the tropospheric long-range propagation.</i></font></a>
+<li><a href="https://thobonensta.github.io/files/main.pdf"><font color="#003300"><i>A wavelet-frames based split-step method to model the tropospheric long-range propagation.</i></font></a>
 <br> in IEEE Transactions on Antennas and Propagation, 73(12), 2025. 
 </li>
 
