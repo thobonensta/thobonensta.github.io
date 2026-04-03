@@ -19,7 +19,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 
-<li><a href="https://thobonensta.github.io/files/CleanLATEXManuscript.pdf"><font color="#003300"><font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets in mono or bi-static configurations.</i></font></a>
+<li><a href="https://thobonensta.github.io/files/CleanLATEXManuscript.pdf"><font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets in mono or bi-static configurations.</i></font></a>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
 <br> in IET Radar, Sonar & Navigation, 20(1), 2026. 
 </li>
