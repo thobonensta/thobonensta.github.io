@@ -13,18 +13,18 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <br> accepted to Inverse Problems, 2026.
 </li>
 
-<li><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font>
+<li><a href="https://thobonensta.github.io/files/CleanVersion.pdf"><font color="#003300"><font color="#003300"><i>A discrete dual finite volume method for the stationary advection-diffusion-reaction equation.</i></font></a>
 <br> with Delphine Bessières and Jean Paillol.
 <br> in Applied Numerical Mathematics, 225, 2026. 
 </li>
 
 
-<li><font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets in mono or bi-static configurations.</i></font>
+<li><a href="https://thobonensta.github.io/files/CleanLATEXManuscript.pdf"><font color="#003300"><font color="#003300"><i>A semi-analytical Gaussian beam summation method to compute the RCS of dielectric and dielectric-coated targets in mono or bi-static configurations.</i></font></a>
 <br> with Mira Kaissar Abboud, <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a> and <a href="https://www.idref.fr/147410398" target="_blank">Philippe Pouliguen</a>.
 <br> in IET Radar, Sonar & Navigation, 20(1), 2026. 
 </li>
 
-<li><font color="#003300"><i>A wavelet-frames based split-step method to model the tropospheric long-range propagation.</i></font> 
+<li><a href="https://thobonensta.github.io/files/main.pdf"><font color="#003300"><font color="#003300"><i>A wavelet-frames based split-step method to model the tropospheric long-range propagation.</i></font></a>
 <br> in IEEE Transactions on Antennas and Propagation, 73(12), 2025. 
 </li>
 
