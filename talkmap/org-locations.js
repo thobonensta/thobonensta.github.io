@@ -94,4 +94,14 @@ var addressPoints = [
     41.15,
     -8.61
   ],
+      [
+    "Palaiseau, France",
+    48.71,
+    2.199
+  ],
+        [
+    "Toulouse, France",
+    43.56,
+    1.48
+  ],
 ];
