@@ -68,13 +68,19 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 <h3>Work in progress</h3>
-<li> <font color="#003300"><i>A Stochastic Boundary Element Method for electromagnetic scattering in random media.</i></font>
-<br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
-<br> accepted to WAVES 2026.
-</li>
 
 
 <h3>Proceedings</h3>
+
+<li> <font color="#003300"><i>A Stochastic Boundary Element Method for electromagnetic scattering in random media.</i></font>
+<br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> in WAVES 2026.
+</li>
+
+<li> <a href="https://thobonensta.github.io/files/Modelling_tropospheric_propagation_physics_guided_NN.pdf"><font color="#003300"><i>Modelling the tropospheric propagation with a physics-guided neural network surrogate.</i></font></a>
+<br> with Abdelmalek Toumi, Emma Marcos and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
+<br> in Journées URSI France 2026.
+</li>
 
 <li><font color="#003300"><i>Quantification d'incertitude sur des mesures quasi-optiques en bande J pour des applications à la caractérisation des matériaux.</i></font>
 <br> with Adam El Hammoud, Titouan Marquaille, Gregory Gaudin, Clement Henry, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
