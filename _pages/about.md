@@ -28,7 +28,7 @@ I was born in Pau in 1994. I graduated as an Electronics and Telecommunication e
 <br>
 <br>From September 2021 to December 2025, I was an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA (Brest)</a>. My research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems, uncertainty quantification in PDEs, as well as the use of machine-learning for modeling electromagnetic phenomena and inverse scattering. During this time, I was a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM team</a> within the <a href="https://labsticc.fr/fr">Lab-STICC</a>. I am also an IEEE, a GRSS, and a URSI-France Member.
 <br>
-Since December 2025, I work as a research engineer in the Paris area. 
+<br>Since December 2025, I work as a research engineer in the Paris area. 
 <br>
 <br>I received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 (Commission B) meeting in Rome as well as at the URSI AT-RASC 2024 conference in Gran Canaria (Commission K).
 <br>
