@@ -66,8 +66,20 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>
 
 
-
 <h3>Work in progress</h3>
+<li> <a href="https://thobonensta.github.io/files/2607.03262v2.pdf"><font color="#003300"><i>A Wigner-based volumetric transport framework for paraxial waves in random media.</i></font></a>
+<br> <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a> and <a href="[https://www.spered.org/coatanhay/](http://angelique.dremeau.free.fr/Site_anglais/Home.html)" target="_blank">Angélique Drémeau</a> .
+<br> 2026.
+</li>
+
+<li> <font color="#003300"><i>Stability aware adaptive polynomial chaos expansion for stochastic Helmholtz problems.</i></font>
+<br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
+<br> submitted to Journal of Computational Physics, 2026.
+    
+</li>
+<li> <font color="#003300"><i>A Physics-Guided Neural Network for Real-Time Electromagnetic Field Predictions Over Various Terrain.</i></font>
+<br> with Abdelmalek Toumi, Emma Marcos and <a href="https://www.ensta-bretagne.fr/khenchaf/fr/cv.php" target="_blank">Ali Khenchaf</a>.
+</li>
 
 
 <h3>Proceedings</h3>
@@ -82,7 +94,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <br> in Journées URSI France 2026.
 </li>
 
-<li><font color="#003300"><i>Quantification d'incertitude sur des mesures quasi-optiques en bande J pour des applications à la caractérisation des matériaux.</i></font>
+<li><a href="https://thobonensta.github.io/files/JNM_2026_UQ.pdf"><font color="#003300"><i>Quantification d'incertitude sur des mesures quasi-optiques en bande J pour des applications à la caractérisation des matériaux.</i></font></a>
 <br> with Adam El Hammoud, Titouan Marquaille, Gregory Gaudin, Clement Henry, and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
 <br> in Journées Nationales Micro-ondes (JNM), 2026. 
 </li>
