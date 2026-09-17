@@ -13,9 +13,9 @@ redirect_from:
 
 <br>My main research interests are numerical methods for electromagnetic applications and inverse problems. In particular, I focus on the following topics :
 <ul>
-  <li>Computational techniques in electromagnetics (Asymptotic and Rigorous methods, Machine Learning based algorithm)</li>
-  <li>Modeling wave propagation</li>
-  <li>Multi-physic and multi-scale modeling (electroporation, cold plasma)</li>
+  <li>Modeling electromagnetic propagation in deterministic and random media</li>
+  <li>Computational techniques in electromagnetic (asymptotic, rigorous and machine learning methods)</li>
+  <li>Multi-physic and multi-scale modeling (e.g. electroporation, cold plasma)</li>
   <li>Inverse Scattering</li>
 </ul>
 
@@ -26,9 +26,11 @@ I was born in Pau in 1994. I graduated as an Electronics and Telecommunication e
 <br>
 <br>I was then enrolled as a junior lecturer at the <a href="https://www.univ-pau.fr/fr/index.html">University of Pau</a>, France, between September 2020 and 2021. This year, I focused on electromagnetic models and numerical methods for plasma and bio-electromagnetism. This research aims at modeling the electroporation phenomena and efficiently solving the obtained PDEs and was done in the <a href="https://siame.univ-pau.fr/fr/organisation/equipes/equipe-procedes-haute-tension.html">SIAME PHT team</a>.
 <br>
-<br>From September 2021 to December 2025, I was an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA (Brest)</a>. My research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems, uncertainty quantification in PDEs, as well as the use of machine-learning for modeling electromagnetic phenomena and inverse scattering. I am a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM team</a> within the <a href="https://labsticc.fr/fr">Lab-STICC</a>. I am also an IEEE, a GRSS, and a URSI-France Member.
+<br>From September 2021 to December 2025, I was an associate professor at <a href="https://www.ensta-bretagne.fr/fr">ENSTA (Brest)</a>. My research mainly focuses on computational electromagnetics from radio-frequency to electro-quasi-static problems, uncertainty quantification in PDEs, as well as the use of machine-learning for modeling electromagnetic phenomena and inverse scattering. During this time, I was a member of the <a href="https://labsticc.fr/fr/equipes/pim">PIM team</a> within the <a href="https://labsticc.fr/fr">Lab-STICC</a>. I am also an IEEE, a GRSS, and a URSI-France Member.
 <br>
-<br>I received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 meeting in Rome and the URSI AT-RASC 2024 conference in Gran Canaria.
+Since December 2025, I work as a research engineer in the Paris area. 
+<br>
+<br>I received a <a href="https://ursi.org/young_scientists.php">Young Scientist Award</a> at the URSI GASS 2021 (Commission B) meeting in Rome as well as at the URSI AT-RASC 2024 conference in Gran Canaria (Commission K).
 <br>
 <br>
 <img src="field_RO_1.png" alt=" Propagation in a radio occultation scenario computed with SSW." width="350" height="350">&emsp;&emsp;<img src="shaperetrievz.gif" width="350" height="350">
