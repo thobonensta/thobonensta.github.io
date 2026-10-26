@@ -69,7 +69,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <h3>Work in progress</h3>
 <li> <a href="https://thobonensta.github.io/files/2607.03262v2.pdf"><font color="#003300"><i>A Wigner-based volumetric transport framework for paraxial waves in random media.</i></font></a>
 <br> <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a> and <a href="http://angelique.dremeau.free.fr/Site_anglais/Home.html" target="_blank">Angélique Drémeau</a> .
-<br> submitted to Wave Motion, October 2026.
 </li>
 
 <li> <font color="#003300"><i>Stability aware adaptive polynomial chaos expansion for stochastic Helmholtz problems.</i></font>
