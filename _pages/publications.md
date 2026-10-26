@@ -83,7 +83,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h3>Proceedings</h3>
 
-<li> <font color="#003300"><i>A Stochastic Boundary Element Method for electromagnetic scattering in random media.</i></font>
+<li> <a href="https://thobonensta.github.io/files/marquaille_WAVES_2026.pdf"><font color="#003300"><i>A Stochastic Boundary Element Method for electromagnetic scattering in random media.</i></font></a>
 <br> with Titouan Marquaille and <a href="https://www.spered.org/coatanhay/" target="_blank">Arnaud Coatanhay</a>.
 <br> in WAVES 2026.
 </li>
